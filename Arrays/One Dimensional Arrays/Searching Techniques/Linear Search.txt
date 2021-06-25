@@ -1,0 +1,5 @@
+Working of Linear Search:-
+Applicable only for the sorted arrays
+Entire array is traversed through and if the element(key) is found it return the index of the element Else gives out -1 
+time complexity:- O(n) 
+Best Case:- O(1) (first element is the key)
