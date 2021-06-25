@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>                                                                                                        
+#include <bits/stdc++.h>
 using namespace std;
 
 #define incr_loop(a, b) for (int i = a; i < b; i++)
@@ -9,10 +9,10 @@ using namespace std;
 typedef long long int ll;
 #define space cout << ' ';
 #define in(x) cin >> x;
-#define in2(x,y) cin >> x>>y;
-#define in3(x,y,z) cin >> x>>y>>z;
+#define in2(x, y) cin >> x >> y;
+#define in3(x, y, z) cin >> x >> y >> z;
 #define out(x) cout << x;
-#define line cout <<endl;
+#define line cout << endl;
 #define str_in(x) getline(cin, x)
 #define f first
 #define s second
@@ -24,8 +24,6 @@ const int N = 3e5, M = N;
 void solution()
 {
     int i, j, n, m;
-
-
 }
 dontquit
 {
@@ -39,10 +37,7 @@ dontquit
     {
 
         solution();
-
     }
 
-
-    return 0
-;
+    return 0;
 }
