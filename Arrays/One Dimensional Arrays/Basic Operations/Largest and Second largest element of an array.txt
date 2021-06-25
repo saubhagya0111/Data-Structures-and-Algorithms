@@ -1,0 +1,6 @@
+Finding the largest and the second largest element of an array:-
+The first element of an array (index=0) is assumed as the largest element and the next element with the index=1 is assumed to be the second largest element
+Its compared with all the subsequent elements and in case the element is found to be larger than the ones assumed
+The element is then interchanged with the corresponding element 
+In order to find the second largest element an additional condition of the element being not equal to the largest element is imposed
+In a similar iterative process the smallest and the second smallest elements can be found 
