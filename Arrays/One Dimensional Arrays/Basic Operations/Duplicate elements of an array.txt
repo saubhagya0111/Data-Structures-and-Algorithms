@@ -1,0 +1,5 @@
+Finding the duplicate elements of an array:-
+Using a nested loop the outer loop selects the element of the array in the order of their increasing indices 
+The inner loop scans through the successive elements of the array in order to find any copies (if they exist)
+And then displays the elements accordingly
+A flag variable is assigned to display the message in case all the elements are unique in nature
