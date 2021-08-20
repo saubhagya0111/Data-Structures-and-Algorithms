@@ -1,0 +1,9 @@
+Time complexity Notes:- 
+Definition:- Time complexity is computational complexity that describes the time taken for an algorithm to run 
+Big O of one represented as O(1) represents that the algorithm takes constant/finite time in order to run
+In layman terms the implementation is never dependent on any other factor
+Big O of one represented as O(n) represents that the algorithm takes order of linear time in order to run
+Notation:- 1. Linear Time:- O(n)
+           2. Fixed Time:- O(1)
+Mathematical Notation:- Big O--> O(n) is same as o(n^2) is same as O(n^3).......................................
+Industrial Definition:- Order of (n)--> Expects us to return the best possible (minimum) time for an algorithm to run and produce the desired output
