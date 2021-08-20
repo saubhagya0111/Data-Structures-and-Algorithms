@@ -1,0 +1,6 @@
+Methodology of Selection Sort:- 
+1.Primary loop compares all the elements of the array with the next (size-index) elements and then swaps the element with the current (ith) element
+2.Process goes on until all the elements are arranged in ascending order
+3.Time complexity:- O(n^2)
+time complexity is extremely poor due to the trivial approach which leads to the 
+sorting of the array by traversing it twice
