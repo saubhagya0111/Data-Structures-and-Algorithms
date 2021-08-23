@@ -1,0 +1,3 @@
+Classes are user defined data types used to hold member functions and data members of its own
+The member functions that have been assigned an access modifier of the type private can be accessed only using a member function of the Class
+beyond the limit of the Class
