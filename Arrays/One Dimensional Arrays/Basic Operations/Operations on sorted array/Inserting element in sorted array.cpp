@@ -11,6 +11,7 @@ int main()
     {
         cin >> a[i];
     }
+    //Time Complexity: O(N)
     cout << "Enter the number that you want to insert in the array\n";
     int b;
     cin >> b;
