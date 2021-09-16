@@ -12,6 +12,7 @@ bool is_sorted(int a[], int n)
     }
     return true;
 }
+ //Time Complexity: O(N)
 int main()
 {
     int n;
