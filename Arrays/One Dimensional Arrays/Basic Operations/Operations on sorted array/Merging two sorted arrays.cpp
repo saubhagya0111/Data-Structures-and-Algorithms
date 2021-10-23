@@ -44,6 +44,7 @@ void merged_array(int a[], int n1, int b[], int n2)
     {
         cout << c[i] << " ";
     }
+    //Time Complexity: (Theta)(m+n)
 }
 int main()
 {
